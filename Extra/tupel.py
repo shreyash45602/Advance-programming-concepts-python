@@ -1,0 +1,10 @@
+T1 = (1,2,3,4)
+T2 = ("python","are","easy")
+T3 = T1 + T2
+print(type(T1))
+print(id(T1))
+print(type(T3))
+print(id(T2))
+print(type(T3))
+print(id(T3))
+print(T3)
